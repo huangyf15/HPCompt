@@ -4,7 +4,7 @@
 
 Templates, demos and examples for HPC (High-Performance Computing)
 
-* Basics: `Linux`, `vim`, `shell`
+* BASICS_SYS: `linux`, `vim`, `shell`
 
 * CUDA_GPU
 
