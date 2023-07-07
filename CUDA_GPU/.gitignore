@@ -1,1 +1,12 @@
 tries
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
+*.exe
+*.pdb
+*.exe.recipe
+*.obj
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate

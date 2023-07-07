@@ -1,0 +1,10 @@
+Title: inline func effect on matMulti_CUDA
+Current time: 2023-07-08 02:11:14 237  ms
+
+Init matrices: Width = 512
+CUDA blocksize = 32
+
+--hostFunc() elapsed 0.525045 s..
+
+--GPUFunc() elapsed 0.688787 s..
+

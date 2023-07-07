@@ -1,0 +1,12 @@
+Title: shared memory effect on matMulti_CUDA
+Current time: 2023-07-08 03:07:51 307  ms
+
+Init matrices: Width = 2048
+CUDA blocksize = 16
+
+--hostFunc() elapsed 57.138 s..
+
+--GPU_gFunc() elapsed 0.528315 s..
+
+--GPU_sFunc() elapsed 0.272491 s..
+

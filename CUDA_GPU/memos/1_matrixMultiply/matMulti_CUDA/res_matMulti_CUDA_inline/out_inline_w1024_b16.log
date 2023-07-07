@@ -1,0 +1,6 @@
+Title: inline func effect on matMulti_CUDA
+Current time: 2023-07-08 02:48:06 990  ms
+
+Init matrices: Width = 1024
+CUDA blocksize = 16
+
